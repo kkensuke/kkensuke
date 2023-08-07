@@ -1,8 +1,4 @@
-Title
-===
-<!-- Table of contents -->
-
-<!-- Table of contents --># Hi there 👋
+# Hi there 👋
 
 I'm Kensuke!
 
