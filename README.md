@@ -10,4 +10,4 @@ Research keywords: Quantum Machine Learning, Variational Quantum Algorithms, Qua
 
 
 ## 📫 Contact
-- Email: kamisoyama-kensuke564@g.ecc.u-tokyo.ac.jp
+- Email: kensuke@icepp.s.u-tokyo.ac.jp
