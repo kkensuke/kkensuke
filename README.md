@@ -5,7 +5,7 @@ I'm Kensuke Kamisoyama (上曽山 健介), a PhD student in Department of Physic
 Research keywords: Quantum Machine Learning, Variational Quantum Algorithms, Quantum Kernel Methods, Generalization.
 
 ## 🔗 Links
-- [Personal site](https://kkensuke.vercel.app/)
+- [Personal Tech blog](https://kkensuke.vercel.app/)
 - [Qiita](https://qiita.com/kkensuke)
 
 
